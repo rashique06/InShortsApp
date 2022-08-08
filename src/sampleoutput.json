@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "Justin Langer reveals why he rejected Cricket Australia's short-term contract extension as head coach",
+    "description": "In his resignation letter, men's national team coach Justin Langer tells Cricket Australia he wanted to bow out with dignity and integrity rather than accept a short-term contract to continue as men's head coach.",
+    "url": "http://www.abc.net.au/news/2022-02-06/sport-justin-langer-letter/100809072",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d1f2e67e1875d904fb00caebad9b13ec?impolicy=wcms_crop_resize&cropH=2100&cropW=3734&xPos=0&yPos=103&width=862&height=485",
+    "publishedAt": "2022-02-06T09:34:51Z",
+    "content": "Justin Langer told Cricket Australia (CA) he wanted to bow out with dignity and integrity rather than accept a short-term contract to continue as men's head coach.\r\n<ul><li>Langer's resignation lette… [+2864 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": "BBC Sport",
+    "title": "India v West Indies - Cricket - BBC Sport",
+    "description": "Find out the in depth batting and bowling figures for India v West Indies in the One Day International Series on BBC Sport.",
+    "url": "https://www.bbc.co.uk/sport/cricket/scorecard/ECKO51921",
+    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+    "publishedAt": "2022-02-06T08:07:22.4365167Z",
+    "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(1.1 overs)</th><th>4-for0wickets</th><t… [+1126 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
